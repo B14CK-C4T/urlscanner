@@ -4,7 +4,7 @@
 ---
 
 ### **`README.md`**
-```md
+
 # URLSCANNER
 
 api documentation visit:
@@ -18,37 +18,37 @@ https://urlscan.io/user/login/
 ## 🚀 Installation Guide
 
 ### 1️⃣ **Clone the Repository**
-```bash
+
 git clone https://github.com/unknown-online/urlscanner.git
-cd urlscanner```
+cd urlscanner
 
 ### 2️⃣ **Create a Virtual Environment**
-```bash
+
 python -m venv venv
-```
+
 Activate the virtual environment:
 - **Linux/macOS**:  
-  ```bash
+  
   source venv/bin/activate
-  ```
+  
 - **Windows**:  
-  ```powershell
+  
   venv\Scripts\activate
-  ```
+  
 
 ### 3️⃣ **Install Dependencies**
-```bash
+
 pip install -r requirements.txt
-```
+
 
 ---
 
 ## ⚙️ Configuration
 1. Open `config.yaml` and set your API key :
-```yaml
+
 apikey: "your_api_key"
 
-```
+
 
 ---
 
