@@ -11,6 +11,9 @@ Here’s a **README.md** file with installation instructions, including setting 
 api documentation visit:
 
 https://urlscan.io/docs/api/
+
+Get api key:
+https://urlscan.io/user/login/
 ---
 
 ## 🚀 Installation Guide
