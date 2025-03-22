@@ -45,7 +45,7 @@ pip install -r requirements.txt
 ---
 
 ## ⚙️ Configuration
-1. Open `config.yaml` and set your API key and URL:
+1. Open `config.yaml` and set your API key :
 ```yaml
 apikey: "your_api_key"
 
@@ -71,10 +71,3 @@ python3 urlscanner.py
   ```
 
 ---
-
-### **How to Use This?**
-1. Save this as `README.md`.
-2. Add it to your project.
-3. Users can follow the guide for installation and execution.
-
-Let me know if you want modifications! 🚀
