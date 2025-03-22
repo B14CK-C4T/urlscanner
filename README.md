@@ -1,6 +1,5 @@
 # urlscanner
-
-Here’s a **README.md** file with installation instructions, including setting up a virtual environment (`venv`) and installing dependencies.  
+  installation instructions and setting up a virtual environment (`venv`) for installing dependencies.  
 
 ---
 
