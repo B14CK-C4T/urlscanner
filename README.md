@@ -17,7 +17,7 @@ https://urlscan.io/docs/api/
 
 ### 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/
+git clone https://github.com/unknown-online/urlscanner.git
 cd urlscanner```
 
 ### 2️⃣ **Create a Virtual Environment**
