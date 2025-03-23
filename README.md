@@ -73,7 +73,7 @@ python3 urlscanner.py
 ## License
   ```
 this project is licensed under the GNU General Public License v3.0.
-you may frrly use, modify, and distribute this software under the same license.
+you may freely use, modify, and distribute this software under the same license.
 see the LICENSE file for details.
 ```
 ---
