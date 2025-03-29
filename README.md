@@ -19,7 +19,7 @@ https://urlscan.io/user/login/
 
 ### 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/unknown-online/urlscanner.git
+git clone https://github.com/B14CK-C4T/urlscanner.git
 cd urlscanner
 ```
 
